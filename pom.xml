@@ -8,7 +8,9 @@
   <name>SpringExample</name>
   <url>http://maven.apache.org</url>
 	
-  
+  <scm><developerConnection>scm:git:ssh://git@github.com:niteshs1904/devops.git</developerConnection>  <tag>v1.1.0</tag>
+  </scm>
+	
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
